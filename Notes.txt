@@ -1,0 +1,2 @@
+1. laravel new project1 - pravljenje novog projekta
+2. php artisan serve - da dobijemo adresu projekta i pokrenemo server
